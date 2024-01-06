@@ -13,8 +13,8 @@ Player Turns:
 Players take turns guessing the coordinates to target an opponent's battleship.
 If a player hits a battleship, they get another turn.
 The goal is to sink all of the opponent's battleships.
-![image](https://github.com/EPT001/Battleships/assets/155842366/fddf095f-d537-48f1-8563-6e4c7717e2bf)
 
+![image](https://github.com/EPT001/Battleships/assets/155842366/fddf095f-d537-48f1-8563-6e4c7717e2bf)
 
 Winning the Game:
 
