@@ -1,4 +1,4 @@
-Battleship Game
+                                                                                    Battleship Game
 
 This repository contains a simple implementation of the classic Battleship game in Java. The game is played in the console and involves two players taking turns to guess the location of the opponent's battleships on a 10x10 grid.
 
